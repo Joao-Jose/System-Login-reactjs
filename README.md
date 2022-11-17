@@ -9,4 +9,4 @@ o projeto tem como o fundamento em uma tela de login aonde as informações do u
 
 (Project made by a reactjs beginner, so the code is well optimized due to research and several tutorials.
 
-the project is based on a login screen where user information is stored in the browser itself.):us:
+the project is based on a login screen where user information is stored in the browser itself.)  :us:
