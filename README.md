@@ -5,3 +5,8 @@ Projeto feito por um iniciante em reactjs, portanto o código está bem otimizad
 
 o projeto tem como o fundamento em uma tela de login aonde as informações do usuario é armazeada no proprio navegador. :+1:
 :thumbsup:
+
+
+(Project made by a reactjs beginner, so the code is well optimized due to research and several tutorials.
+
+the project is based on a login screen where user information is stored in the browser itself.):us:
